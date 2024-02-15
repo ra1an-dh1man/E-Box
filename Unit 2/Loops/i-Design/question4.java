@@ -7,7 +7,7 @@
 */
 import java.util.*;
 
-class Demo
+class Main
 {
     public static void main(String args[])
     {
