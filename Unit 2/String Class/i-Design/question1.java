@@ -1,3 +1,4 @@
+//Sample input and output is int the end of the code.
 import java.util.*;
 
 public class Main
@@ -77,3 +78,45 @@ public class Main
     }
 }
 
+/*
+To compare 2 strings --- The function returns 0 if the 2 strings are the same, returns -1 
+if the first string is less than the second string and returns 1 
+if the first string is greater than the second string. 
+
+input-> were
+        apple
+output->Length of the first string is 4
+        Length of the second string is 5
+        The reverse of the first string is erew
+        The reverse of the second string is elppa
+        The concatenated string is wereapple
+        apple appears before were
+        
+input-> apple
+        were
+output->Length of the first string is 5       
+        Length of the second string is 4
+        The reverse of the first string is elppa
+        The reverse of the second string is erew
+        The concatenated string is applewere
+        apple appears before were
+
+input-> be
+        bet        
+output->Length of the first string is 2        
+        Length of the second string is 3
+        The reverse of the first string is eb
+        The reverse of the second string is teb
+        The concatenated string is bebet
+        be appears before bet
+
+input-> be
+        be
+output->Length of the first string is 2
+        Length of the second string is 2
+        The reverse of the first string is eb
+        The reverse of the second string is eb
+        The concatenated string is bebe
+        Both the input strings are same
+
+*/
