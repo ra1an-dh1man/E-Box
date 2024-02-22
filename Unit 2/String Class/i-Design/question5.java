@@ -1,3 +1,12 @@
+/*
+input1:	Kattoor road,2nd cross Extension,coimbatore,India
+ 	kattoor road,2nd cross extension,Coimbatore,india
+output:	BLUE
+
+input2:	KR main road,Kashmir,India
+	KR Street,Kashmir,India
+output: GREEN
+*/
 import java.util.*;
 public class Main {
 	public static void main(String []args){
