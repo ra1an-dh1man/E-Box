@@ -1,3 +1,12 @@
+/*
+Enter the number of events
+2
+Enter event details in CSV(Event Name,Organiser Name,Event Cost)
+Jaqulos,Einstein,1230000
+Hip Hop,Wright Brothers,300000
+Jaqulos|Einstein|1230000.0
+Hip Hop|Wright Brothers|300000.0
+*/
 import java.util.*;
 class Event
 
