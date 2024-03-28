@@ -1,3 +1,14 @@
+/*
+Enter the number of halls:
+3
+Party hall,4000,Jarviz
+Disco hall,5000,Starc
+Dining hall,3000,Chris
+Name            Cost       Owner
+Dining hall     3000.0     Chris
+Party hall      4000.0     Jarviz
+Disco hall      5000.0     Starc
+*/
 import java.util.*;
 import java.util.Scanner;
 
